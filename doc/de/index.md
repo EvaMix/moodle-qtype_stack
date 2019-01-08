@@ -1,3 +1,3 @@
 # STACK
 
-[Erklaerung](%CONTENT/de/Erklaerung-STACK-3.pdf).
+[Erklaerung](%CONTENT/doc/content/de/Erklaerung-STACK-3.pdf).
